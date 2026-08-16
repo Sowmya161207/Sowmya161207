@@ -2,9 +2,6 @@
 
  💻 Engineering Student | 🤖 AI & ML Enthusiast | 🐍 Python Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Generative+AI+Explorer;Building+Ideas+Into+Projects+🚀" />
-</p>
 
  🧑‍💻 About Me
 
